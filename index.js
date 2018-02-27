@@ -10,3 +10,7 @@ function johnLennonFacts(facts) {
 }
   return factsArray
 }
+function iLoveTheBeatles(number) {
+  var loudList = []
+  do {'I love the Beatles!'} while (number < 15)
+}
