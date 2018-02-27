@@ -13,4 +13,5 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(number) {
   var loudList = []
   do {loudList.push('I love the Beatles!'); number++} while (number < 15)
+return loudList
 }
